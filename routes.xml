@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf8'?>
+<workers><route><destination>Kiev</destination><number>12</number><time>14:00</time></route><route><destination>Moscow</destination><number>5</number><time>10:45</time></route></workers>
